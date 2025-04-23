@@ -17,6 +17,7 @@ export enum LoopFrequency {
   DAILY = 'daily',
   THREE_TIMES_WEEK = 'three_times_week',
   WEEKDAYS = 'weekdays',
+  CUSTOM = 'custom',
 }
 
 export enum LoopVisibility {
